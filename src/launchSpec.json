@@ -1,0 +1,21 @@
+{
+    "CollectorList": [
+        {
+            "name": "Tushare",
+            "token": "${Your Token}",
+            "usePro": false
+        }
+    ],
+    "DataBase": {
+        "server": "localhost",
+        "userName": "YuhaiCao",
+        "password": "YuhaiCao",
+        "TableListName": {
+            "StockList": "StockList",
+            "StockBasic": "StockBasic",
+            "BalanceSheets": "BalanceSheets",
+            "IncomingStatement": "IncomeStatement",
+            "CashFlowStatement": "CashFlowStatement"
+        }
+    }
+}
